@@ -89,3 +89,17 @@ Remember to import the necessary modules in your app module or respective featur
 
 ### Project Screenshots:
 ### Home Page
+![Home](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/a47209d7-f67b-4236-a381-982dfe5d606a)
+
+### Trending Movies
+![Trending](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/78840de7-bb8b-4e4c-b866-8477de84e347)
+
+### Movies List
+![Movies](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/a6487893-0545-484c-8539-d00eb8edd42b)
+
+### Filter Movies
+![Filter](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/d0196c4e-c865-4402-9993-9272dfd57188)
+
+### Movie's Details with cast & crew
+![Details](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/9cc885c4-3988-4bb8-a823-62150618172f)
+
