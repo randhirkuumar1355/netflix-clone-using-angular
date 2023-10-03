@@ -93,7 +93,7 @@ Remember to import the necessary modules in your app module or respective featur
 ![Trending](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/78840de7-bb8b-4e4c-b866-8477de84e347)
 
 ### Movies List
-![Movies](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/a6487893-0545-484c-8539-d00eb8edd42b)
+![Movies](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/82f2ab25-ce41-488f-8588-97826c6bbb57)
 
 ### Filter Movies
 ![Filter](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/d0196c4e-c865-4402-9993-9272dfd57188)
