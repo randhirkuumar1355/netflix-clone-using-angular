@@ -3,6 +3,9 @@
 Discover "Cineflix," an Angular-based web app that offers:
 Step into the world of cinematic excellence with "Cineflix," an Angular-based web application that brings the magic of movies right to your screen.
 
+### Demo Link:
+https://cineflix-f9598.web.app/home
+
 ## Breathtaking Landing Pages
 Dive into a world of cinematic wonder as you explore our beautiful landing pages. From captivating banners to curated lists of trending, action, adventure, animation, comedy, documentary, science fiction, and thriller movies, you'll find something for every taste.
 ## Effortless Movie Discovery:
